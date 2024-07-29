@@ -1,4 +1,4 @@
-# gmail-triggered-screenshot-responder# Email-Triggered-Screenshot-Responder
+# gmail-triggered-screenshot-responder#
 
 Google Apps Script to listen for emails, extract URLs, convert web pages to PDFs, and reply with the screenshots as PDF attachments.
 
